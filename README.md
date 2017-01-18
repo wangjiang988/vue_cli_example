@@ -1,6 +1,6 @@
 # vue_example
 
-> A Vue.js project
+> A Vue2.js+vue2-route.js project
 
 ## Build Setup
 
